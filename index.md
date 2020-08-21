@@ -13,7 +13,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
 ## Handy Links
  - [[ FAQ ]]—Answers to some of the most commonly asked questions
  - [[ New Students Guide | I'm an incoming freshman ]]
- - [[ What do I take next?] ]
+ - [[ What do I take next? ]]
  - [[ Practice & Challenges ]]—How to improve your CS skills
  - [[ Contributing Guide ]] and [[ List of Contributors ]]
 
@@ -152,6 +152,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[INFO 2950]]—Introduction to Data Science
  - [[INFO 3200]]—New Media and Society
  - [[INFO 3300]]
+ - [[INFO 3350]]-Text Mining History and Literature
  - [[INFO 4240]]—Designing Technology for Social Impact
  - [[INFO 4320]]—Introduction to Rapid Prototyping and Physical Computing
  - [[INFO 4430]]—Teams and Technology
